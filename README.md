@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-more or less built something similar ... right now not mobile responsive but soon will be
+more or less built something similar ... right now not mobile responsive but soon will be for sure
